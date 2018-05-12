@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38479
     wikipedia: http://en.wikipedia.org/wiki/George_Jacob_Holyoake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36797#The-Principles-Of-Secularism
 gutenberg_issued: '2011-07-20'
 gutenberg_type: Text
 identifiers:
